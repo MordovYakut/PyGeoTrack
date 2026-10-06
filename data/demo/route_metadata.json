@@ -1,0 +1,15 @@
+{
+  "name": "Туапсе → Сочи · Россия",
+  "start": [
+    44.0964,
+    39.0747
+  ],
+  "end": [
+    43.5855,
+    39.7231
+  ],
+  "distance_m": 119113.2,
+  "duration_s": 7142.9,
+  "source": "OSRM / OpenStreetMap; Open-Meteo / Copernicus DEM GLO-90",
+  "fetched_on": "2026-10-04"
+}

@@ -1,0 +1,19 @@
+{
+  "terrain": {
+    "mae_m": 6.749945175763158,
+    "rmse_m": 9.311984269790143,
+    "validation_points": 152,
+    "restored_points": 238
+  },
+  "slope": {
+    "mae_pct": 5.452350689540254,
+    "rmse_pct": 7.0357569827980875,
+    "r2": -0.1311835438470237,
+    "validation_points": 297,
+    "train_points": 885,
+    "train_label_end_m": 88700.0,
+    "validation_start_m": 89100.0,
+    "persistence_mae_pct": 6.04264870939394
+  },
+  "slope_ready": true
+}
